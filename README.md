@@ -1,6 +1,6 @@
 Azisky Network Forces(ANF)
 ----------------------------
-This script is running on Linux system. anf/server/ is for windows user, but you have to have a web package sender server to run this.
+This script is running on Linux system. anf/ddos/ is for windows user, but you have to have a web package sender server to run this.
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -14,9 +14,9 @@ For Linux user(CC)：
 For Windows user(DDOS):
 -----------------
 You will have to own a package sender server. 
-- Update ntp script: "./ANFDDOS ntp update -1" 
-- Update udp script: "./ANFDDOS udp update -1" 
-- Update syn script: "./ANFDDOS syn update -1" 
+- Update ntp script: "./ddos ntp update -1" 
+- Update udp script: "./ddos udp update -1" 
+- Update syn script: "./ddos syn update -1" 
 - attack : "sudo -i" 
 - custom forgery ： "./la us 100 ntp udp ssdp -1"
 There are following methods to attach:
